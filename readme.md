@@ -7,6 +7,7 @@ An automated solution using Puppeteer to interact with the Omniplex Background R
 - [Prerequisites](#-prerequisites)
 - [Installation](#️-installation)
 - [Project Structure](#-project-structure)
+- [Video Demonstration](#-video-demonstration)
 - [Configuration](#-configuration)
 - [Usage](#-usage)
 - [Error Handling](#️-error-handling)
@@ -56,6 +57,14 @@ bot/
 ├── package.json     # Project dependencies
 └── .gitignore      # Git ignore rules
 ```
+
+## 🎥 Video Demonstration
+
+### Demo Video
+
+https://github.com/user-attachments/assets/c5b9b22e-a3b5-4d00-a172-78249f8c811b
+
+
 
 ## 🔧 Configuration
 
